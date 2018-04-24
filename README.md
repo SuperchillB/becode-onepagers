@@ -1,7 +1,9 @@
-# HTML-CSS-Exercice-4
+# BeCode Onepager Templates
 
-[Link to onepager-2](https://superchillb.github.io/HTML-CSS-Exercice-4/)
+Onepager templates completed at the beginning of my programme at BeCode.
+No CSS frameworks, just plain HTML5 and CSS3.
+
+[Link to onepager-2](https://superchillb.github.io/becode-onepagers/onepager-2/)
 
 
-
-[Link to onepager-3 (unfinished)](https://superchillb.github.io/HTML-CSS-Exercice-4/onepager-3/)
+[Link to onepager-3](https://superchillb.github.io/becode-onepagers/onepager-3/)
